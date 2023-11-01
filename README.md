@@ -1,5 +1,5 @@
 # Vocab2Lyrics
-Listening to music and songs was a fun helpful way for me to get practice and immersion when I was studying a foreign language. This is a short program I made when I was learnig Korean. Goal was to search for songs in a Spotify playlist for a specific vocab that I was learning at the time. This would allow for more easy real world examples and familiarity in my study material. 
+Listening to music and songs was a fun helpful way for me to get practice and immersion when I was studying a foreign language. This is a short program I made when I was learning Korean. Goal was to search for songs in a Spotify playlist for a specific vocab that I was learning at the time. This would allow for more easy real world examples and familiarity in my study material. 
 
 <img src="https://imgur.com/a/OVqqtq1" width="450" height="300" />
 
